@@ -1,0 +1,17 @@
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\bin\Debug\net6.0-windows\10_03_2022_2.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\bin\Debug\net6.0-windows\10_03_2022_2.deps.json
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\bin\Debug\net6.0-windows\10_03_2022_2.runtimeconfig.json
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\bin\Debug\net6.0-windows\10_03_2022_2.dll
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\bin\Debug\net6.0-windows\10_03_2022_2.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\10_03_2022_2.csproj.AssemblyReference.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\_10_03_2022_2.Form1.resources
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\10_03_2022_2.csproj.GenerateResource.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\10_03_2022_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\10_03_2022_2.AssemblyInfoInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\10_03_2022_2.AssemblyInfo.cs
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\10_03_2022_2.csproj.CoreCompileInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\10_03_2022_2.dll
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\refint\10_03_2022_2.dll
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\10_03_2022_2.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\10_03_2022_2.genruntimeconfig.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\10_03_2022_2\10_03_2022_2\obj\Debug\net6.0-windows\ref\10_03_2022_2.dll

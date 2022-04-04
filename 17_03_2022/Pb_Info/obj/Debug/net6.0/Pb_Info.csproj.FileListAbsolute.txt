@@ -1,0 +1,15 @@
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\bin\Debug\net6.0\Pb_Info.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\bin\Debug\net6.0\Pb_Info.deps.json
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\bin\Debug\net6.0\Pb_Info.runtimeconfig.json
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\bin\Debug\net6.0\Pb_Info.dll
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\bin\Debug\net6.0\Pb_Info.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\obj\Debug\net6.0\Pb_Info.csproj.AssemblyReference.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\obj\Debug\net6.0\Pb_Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\obj\Debug\net6.0\Pb_Info.AssemblyInfoInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\obj\Debug\net6.0\Pb_Info.AssemblyInfo.cs
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\obj\Debug\net6.0\Pb_Info.csproj.CoreCompileInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\obj\Debug\net6.0\Pb_Info.dll
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\obj\Debug\net6.0\refint\Pb_Info.dll
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\obj\Debug\net6.0\Pb_Info.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\obj\Debug\net6.0\Pb_Info.genruntimeconfig.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\17_03_2022\Pb_Info\obj\Debug\net6.0\ref\Pb_Info.dll

@@ -1,0 +1,8 @@
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\21_03_2022\bin\Debug\21_03_2022.exe.config
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\21_03_2022\bin\Debug\21_03_2022.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\21_03_2022\bin\Debug\21_03_2022.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\21_03_2022\obj\Debug\21_03_2022.csproj.AssemblyReference.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\21_03_2022\obj\Debug\21_03_2022.csproj.SuggestedBindingRedirects.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\21_03_2022\obj\Debug\21_03_2022.csproj.CoreCompileInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\21_03_2022\obj\Debug\21_03_2022.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\21_03_2022\obj\Debug\21_03_2022.pdb

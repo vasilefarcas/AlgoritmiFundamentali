@@ -1,0 +1,8 @@
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\510\bin\Debug\510.exe.config
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\510\bin\Debug\510.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\510\bin\Debug\510.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\510\obj\Debug\510.csproj.AssemblyReference.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\510\obj\Debug\510.csproj.SuggestedBindingRedirects.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\510\obj\Debug\510.csproj.CoreCompileInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\510\obj\Debug\510.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\510\obj\Debug\510.pdb

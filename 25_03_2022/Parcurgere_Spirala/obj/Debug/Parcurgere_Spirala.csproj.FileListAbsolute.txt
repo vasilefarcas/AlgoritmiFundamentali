@@ -1,0 +1,8 @@
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\Parcurgere_Spirala\bin\Debug\Parcurgere_Spirala.exe.config
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\Parcurgere_Spirala\bin\Debug\Parcurgere_Spirala.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\Parcurgere_Spirala\bin\Debug\Parcurgere_Spirala.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\Parcurgere_Spirala\obj\Debug\Parcurgere_Spirala.csproj.AssemblyReference.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\Parcurgere_Spirala\obj\Debug\Parcurgere_Spirala.csproj.SuggestedBindingRedirects.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\Parcurgere_Spirala\obj\Debug\Parcurgere_Spirala.csproj.CoreCompileInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\Parcurgere_Spirala\obj\Debug\Parcurgere_Spirala.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\25_03_2022\Parcurgere_Spirala\obj\Debug\Parcurgere_Spirala.pdb

@@ -1,0 +1,8 @@
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\SignSort\bin\Debug\SignSort.exe.config
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\SignSort\bin\Debug\SignSort.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\SignSort\bin\Debug\SignSort.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\SignSort\obj\Debug\SignSort.csproj.AssemblyReference.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\SignSort\obj\Debug\SignSort.csproj.SuggestedBindingRedirects.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\SignSort\obj\Debug\SignSort.csproj.CoreCompileInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\SignSort\obj\Debug\SignSort.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\21_03_2022\SignSort\obj\Debug\SignSort.pdb
