@@ -1,0 +1,8 @@
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\PB_Info\1313\bin\Debug\1313.exe.config
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\PB_Info\1313\bin\Debug\1313.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\PB_Info\1313\bin\Debug\1313.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\PB_Info\1313\obj\Debug\1313.csproj.AssemblyReference.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\PB_Info\1313\obj\Debug\1313.csproj.SuggestedBindingRedirects.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\PB_Info\1313\obj\Debug\1313.csproj.CoreCompileInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\PB_Info\1313\obj\Debug\1313.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\PB_Info\1313\obj\Debug\1313.pdb
