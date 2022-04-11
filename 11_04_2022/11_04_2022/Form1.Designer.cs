@@ -38,11 +38,10 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.Animation = new System.Windows.Forms.Button();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.blur_Button = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -139,20 +138,22 @@
             this.Animation.UseVisualStyleBackColor = true;
             this.Animation.Click += new System.EventHandler(this.Animation_Click);
             // 
-            // pictureBox4
+            // blur_Button
             // 
-            this.pictureBox4.Location = new System.Drawing.Point(892, 319);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(350, 283);
-            this.pictureBox4.TabIndex = 10;
-            this.pictureBox4.TabStop = false;
+            this.blur_Button.Location = new System.Drawing.Point(421, 319);
+            this.blur_Button.Name = "blur_Button";
+            this.blur_Button.Size = new System.Drawing.Size(75, 23);
+            this.blur_Button.TabIndex = 10;
+            this.blur_Button.Text = "Blur";
+            this.blur_Button.UseVisualStyleBackColor = true;
+            this.blur_Button.Click += new System.EventHandler(this.blur_Button_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1305, 706);
-            this.Controls.Add(this.pictureBox4);
+            this.Controls.Add(this.blur_Button);
             this.Controls.Add(this.Animation);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
@@ -169,7 +170,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -187,6 +187,6 @@
         private Button button3;
         private Button button4;
         private Button Animation;
-        private PictureBox pictureBox4;
+        private Button blur_Button;
     }
 }

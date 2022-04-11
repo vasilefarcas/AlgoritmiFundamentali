@@ -6,10 +6,10 @@ namespace _11_04_2022
         {
             InitializeComponent();
         }
+
         Bitmap pic1;
         Bitmap pic2;
         Bitmap destination;
-        Bitmap reset;
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -42,7 +42,7 @@ namespace _11_04_2022
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            destination = pic1;
             for (int i = 0; i < pic1.Width; i++)
             {
                 for (int j = 0; j < pic1.Height; j++)
@@ -81,55 +81,12 @@ namespace _11_04_2022
             destination.Save(@"..\..\FarcasVasile-Isai_Min.png");
             pictureBox3.Image = destination;
         }
-        Bitmap Reset(Bitmap map)
-        {
-            for (int i = 0; i < pic1.Width; i++)
-            {
-                for (int j = 0; j < pic1.Height; j++)
-                {
-                    Color Td;
-                    Td = Color.FromArgb(0, 0, 0);
-                    destination.SetPixel(i, j, Td);
-                }
-            }
-            return map;
-        }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            destination = pic1;
             int stripes_width = 5;
-            for (int i = 0; i < pic1.Width; i++)
-            {
-                for (int k = 0; k < stripes_width; k++)
-                {
-                    for (int j = 0; j < pic1.Height && i < pic1.Width; j++)
-                    {
-                        Color Ts1 = pic1.GetPixel(i, j);
-                        Color Td;
-                        int r = Ts1.R;
-                        int g = Ts1.G;
-                        int b = Ts1.B;
-                        Td = Color.FromArgb(r, g, b);
-                        destination.SetPixel(i, j, Td);
-                    }
-                    i++;
-                }
-                for (int k = 0; k < stripes_width; k++)
-                {
-                    for (int j = 0; j < pic1.Height && i < pic1.Width; j++)
-                    {
-                        Color Ts1 = pic2.GetPixel(i, j);
-                        Color Td;
-                        int r = Ts1.R;
-                        int g = Ts1.G;
-                        int b = Ts1.B;
-                        Td = Color.FromArgb(r, g, b);
-                        destination.SetPixel(i, j, Td);
-                    }
-                    i++;
-                }
-            }
+            destination = GetStriped(pic1, pic2, stripes_width);
+
             destination.Save(@"..\..\FarcasVasile-Isai_Striped.png");
             pictureBox3.Image = destination;
         }
@@ -139,18 +96,30 @@ namespace _11_04_2022
             pictureBox3.Image = GetStriped(pic1, pic2, 15);
             destination = GetStriped(pic1, pic2, 15);
             destination.Save(@"..\..\FarcasVasile-Isai_Striped.png");
-
-
-            for (int k = 0; k < 100; k++)
-            {
-                pictureBox3.Image = destination;
-                Thread.Sleep(100);
-                pictureBox3.Image = pic1;
-                Thread.Sleep(100);
-            }
         }
 
 
+        private void blur_Button_Click(object sender, EventArgs e)
+        {
+            destination = pic1;
+            int dimension_of_pixels = 3;
+            for (int i = 0; i < pic1.Width; i += dimension_of_pixels)
+            {
+                for (int j = 0; j < pic1.Height; j += dimension_of_pixels)
+                {
+                    Color Ts = pic1.GetPixel(i, j);
+                    for (int l = 0; l < dimension_of_pixels; l++)
+                    {
+                        for (int m = 0; m < dimension_of_pixels; m++)
+                        {
+                            destination.SetPixel((i + l) % pic1.Width, (j + m) % pic1.Height, Ts);
+                        }
+                    }
+                }
+            }
+            destination.Save(@"..\..\FarcasVasile-Isai_Blur.png");
+            pictureBox3.Image = destination;
+        }
 
         Bitmap GetStriped(Bitmap pic1, Bitmap pic2, int stripes_width)
         {
@@ -188,5 +157,6 @@ namespace _11_04_2022
             }
             return destination;
         }
+
     }
 }
