@@ -1,0 +1,8 @@
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Interviu\Interviu\bin\Debug\Interviu.exe.config
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Interviu\Interviu\bin\Debug\Interviu.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Interviu\Interviu\bin\Debug\Interviu.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Interviu\Interviu\obj\Debug\Interviu.csproj.AssemblyReference.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Interviu\Interviu\obj\Debug\Interviu.csproj.SuggestedBindingRedirects.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Interviu\Interviu\obj\Debug\Interviu.csproj.CoreCompileInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Interviu\Interviu\obj\Debug\Interviu.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Interviu\Interviu\obj\Debug\Interviu.pdb
