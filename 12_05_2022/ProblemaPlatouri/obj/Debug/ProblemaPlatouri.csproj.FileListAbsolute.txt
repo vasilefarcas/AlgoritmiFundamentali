@@ -1,0 +1,8 @@
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\12_05_2022\ProblemaPlatouri\bin\Debug\ProblemaPlatouri.exe.config
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\12_05_2022\ProblemaPlatouri\bin\Debug\ProblemaPlatouri.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\12_05_2022\ProblemaPlatouri\bin\Debug\ProblemaPlatouri.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\12_05_2022\ProblemaPlatouri\obj\Debug\ProblemaPlatouri.csproj.AssemblyReference.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\12_05_2022\ProblemaPlatouri\obj\Debug\ProblemaPlatouri.csproj.SuggestedBindingRedirects.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\12_05_2022\ProblemaPlatouri\obj\Debug\ProblemaPlatouri.csproj.CoreCompileInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\12_05_2022\ProblemaPlatouri\obj\Debug\ProblemaPlatouri.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\12_05_2022\ProblemaPlatouri\obj\Debug\ProblemaPlatouri.pdb
