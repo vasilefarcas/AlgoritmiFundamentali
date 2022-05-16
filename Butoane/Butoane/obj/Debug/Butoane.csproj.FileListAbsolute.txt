@@ -1,0 +1,11 @@
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Butoane\Butoane\bin\Debug\Butoane.exe.config
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Butoane\Butoane\bin\Debug\Butoane.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Butoane\Butoane\bin\Debug\Butoane.pdb
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Butoane\Butoane\obj\Debug\Butoane.csproj.AssemblyReference.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Butoane\Butoane\obj\Debug\Butoane.csproj.SuggestedBindingRedirects.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Butoane\Butoane\obj\Debug\Butoane.Form1.resources
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Butoane\Butoane\obj\Debug\Butoane.Properties.Resources.resources
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Butoane\Butoane\obj\Debug\Butoane.csproj.GenerateResource.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Butoane\Butoane\obj\Debug\Butoane.csproj.CoreCompileInputs.cache
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Butoane\Butoane\obj\Debug\Butoane.exe
+D:\Drive\OneDrive\Facultate\Semestrul II\AlgoritmiFundamentali\Butoane\Butoane\obj\Debug\Butoane.pdb
