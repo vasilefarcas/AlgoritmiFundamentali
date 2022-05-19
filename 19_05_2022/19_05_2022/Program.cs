@@ -19,7 +19,21 @@ namespace _19_05_2022
              a.view();
             */
             #endregion
-            
+
+            #region Stack
+            /*
+            Stack stack = new Stack();
+            stack.Push(1);
+            stack.Push(2);
+            stack.Push(3);
+            stack.Push(4);
+            Console.WriteLine(stack.Pop());
+            Console.WriteLine(stack.Pop());
+            Console.WriteLine();
+            stack.view();
+            */
+            #endregion
+
             #region CalculareExpresie
             /*
             Stack b = new Stack();
@@ -50,12 +64,16 @@ namespace _19_05_2022
             */
             #endregion
 
+            #region Tridata_Queue
+            /*
             Queue<TriData> queue = new Queue<TriData>();
             queue.Push(new TriData(1, 2, 3));
             queue.Push(new TriData(4, 5, 6));
             queue.Push(new TriData(7, 8, 9));
             queue.view();
-
+            */
+            #endregion
+            
             Console.ReadKey();
         }
     }
